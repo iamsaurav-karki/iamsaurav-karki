@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurav Karki</h1>
-<h3 align="center">A passionate Software Tester and Automation Engineer from Nepal</h3>
+<h3 align="center">A passionate Software Tester and Devops Engineer from Nepal</h3>
 
-- 🔭 I’m currently working on **Selenium Project**
+- 🔭 I’m currently working on **Devops Project**
 
 - 🌱 I’m currently learning **Cloud and DevOps**
 
