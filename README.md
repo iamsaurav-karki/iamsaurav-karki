@@ -16,9 +16,8 @@
 
 ### 💫 About Me
 
-- ☁️ Currently learning **DevOps** and **Cloud** technologies
+- ☁️ Currently learning **AIOps** and **LLMOps** technologies
 - ⚙️ Actively working on **DevOps-ifying** projects — CI/CD, IaC, and observability pipelines
-- 🖥️ Exploring **virtualization & self-hosted infrastructure** (VMware, Proxmox)
 - 🔭 Interested in **service mesh & API gateways** (Traefik, Envoy Gateway, Project Contour)
 - 📈 Passionate about **monitoring & log analytics** (Prometheus, ELK/OpenSearch stack)
 - 📧 Reach me at **sauravkarki102@gmail.com**
@@ -102,7 +101,5 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamsaurav-karki&color=2C5263&style=for-the-badge&label=PROFILE+VIEWS)
-
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> — customized by Claude ✨</sub>
 
 </div>
