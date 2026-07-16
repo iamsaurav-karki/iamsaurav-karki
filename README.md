@@ -83,6 +83,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+**Security & Compliance (DevSecOps)**
+
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![OWASP Dependency Check](https://img.shields.io/badge/OWASP%20Dependency--Check-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2E2E2E?style=for-the-badge&logo=git&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-2B65EC?style=for-the-badge&logo=checkmarx&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats
@@ -101,5 +109,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamsaurav-karki&color=2C5263&style=for-the-badge&label=PROFILE+VIEWS)
+
+<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> — customized by Claude ✨</sub>
 
 </div>
