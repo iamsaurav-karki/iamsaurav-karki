@@ -110,6 +110,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamsaurav-karki&color=2C5263&style=for-the-badge&label=PROFILE+VIEWS)
 
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> — customized by Claude ✨</sub>
 
 </div>
