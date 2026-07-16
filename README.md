@@ -1,114 +1,99 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2C5263&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Saurav+Karki+%F0%9F%91%8B;DevOps+Engineer;Cloud+%7C+Automation+%7C+Observability;Building+scalable%2C+reliable+infrastructure" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5263,100:0db7ed&height=220&section=header&text=Saurav%20Karki&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20%C2%B7%20Cloud%20%26%20Automation&descAlignY=62&descSize=18&fontAlignY=35" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0DB7ED&center=true&vCenter=true&width=600&lines=%3E+kubectl+get+pods+--all-namespaces;%3E+terraform+apply+--auto-approve;%3E+docker+build+.+--tag+production;%3E+building+resilient%2C+self-healing+systems" alt="Typing SVG" />
+
+<br>
+
+<a href="https://facebook.com/saurav.karki.7583"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://instagram.com/__s__a__u__r__a__v"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/saurav-karki-41b80621a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sauravkarki102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://medium.com/@sauravkarki102"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
 </div>
 
-<p align="center">
-  <a href="https://facebook.com/saurav.karki.7583"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/__s__a__u__r__a__v"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/saurav-karki-41b80621a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sauravkarki102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@sauravkarki102"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white" /></a>
-</p>
+<br>
 
----
+```yaml
+whoami:
+  name: Saurav Karki
+  role: DevOps Engineer
+  focus: [Cloud Infrastructure, CI/CD, Observability, Self-Hosted Virtualization]
+  currently_learning: Cloud-native security & service mesh architecture
+  fun_fact: "I automate things twice, just to make sure I never do it a third time 😄"
+```
 
-### 💫 About Me
-
-- ☁️ Currently learning **AIOps** and **LLMOps** technologies
-- ⚙️ Actively working on **DevOps-ifying** projects — CI/CD, IaC, and observability pipelines
-- 🔭 Interested in **service mesh & API gateways** (Traefik, Envoy Gateway, Project Contour)
-- 📈 Passionate about **monitoring & log analytics** (Prometheus, ELK/OpenSearch stack)
-- 📧 Reach me at **sauravkarki102@gmail.com**
-
----
-
-### 💻 Tech Stack
-
-**Languages & Scripting**
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Cloud & Virtualization**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-
-**CI/CD & Automation**
-
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-**Networking, Service Mesh & Gateways**
-
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikmesh&logoColor=white)
-![Envoy Gateway](https://img.shields.io/badge/Envoy%20Gateway-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white)
-![Project Contour](https://img.shields.io/badge/Project%20Contour-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Monitoring, Logging & Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-
-**Databases & Messaging**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Version Control & Code Quality**
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-**Security & Compliance (DevSecOps)**
-
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![OWASP Dependency Check](https://img.shields.io/badge/OWASP%20Dependency--Check-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![TruffleHog](https://img.shields.io/badge/TruffleHog-2E2E2E?style=for-the-badge&logo=git&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-2B65EC?style=for-the-badge&logo=checkmarx&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamsaurav-karki&theme=merko&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="165"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=iamsaurav-karki&theme=merko&hide_border=false" alt="GitHub Streak" height="165"/>
+### 🛠️ Core Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaurav-karki&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="165"/>
+<img src="https://skillicons.dev/icons?i=python,c,js,bash,aws,azure,docker,kubernetes,jenkins,gitlab,github,ansible,terraform,grafana,prometheus,nginx,mysql,mongodb,postman&theme=dark&perline=10" />
+
+### 🖥️ Virtualization & Infra
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+
+### 🌐 Service Mesh & Gateways
+
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikmesh&logoColor=white)
+![Envoy Gateway](https://img.shields.io/badge/Envoy%20Gateway-AC6199?style=flat-square&logo=envoyproxy&logoColor=white)
+![Project Contour](https://img.shields.io/badge/Project%20Contour-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### 📈 Observability & Logging
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+
+### 🔐 DevSecOps
+
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-2B65EC?style=flat-square&logo=checkmarx&logoColor=white)
+![OWASP Dependency Check](https://img.shields.io/badge/OWASP%20Dep--Check-000000?style=flat-square&logo=owasp&logoColor=white)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-2E2E2E?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamsaurav-karki&color=2C5263&style=for-the-badge&label=PROFILE+VIEWS)
+### 📊 GitHub Analytics
 
+<img src="https://github-readme-stats.vercel.app/api?username=iamsaurav-karki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaurav-karki&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsaurav-karki&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamsaurav-karki&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamsaurav-karki&color=0db7ed&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0db7ed,100:0F2027&height=100&section=footer" />
 
 </div>
