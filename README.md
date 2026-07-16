@@ -30,7 +30,7 @@ whoami:
 
 ### 🛠️ Core Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,bash,aws,azure,docker,kubernetes,jenkins,gitlab,postgesql,redis,scylladb,terraform,grafana,prometheus,nginx,mysql,mongodb,postman&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,c,bash,aws,azure,docker,kubernetes,helmcharts,jenkins,gitlab,postgesql,redis,fluxcd,terraform,grafana,prometheus,nginx,mysql&theme=dark&perline=10" />
 
 ### 🖥️ Virtualization & Infra
 
