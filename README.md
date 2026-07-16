@@ -30,7 +30,12 @@ whoami:
 
 ### 🛠️ Core Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,bash,aws,azure,docker,kubernetes,jenkins,gitlab,postgesql,redis,terraform,grafana,prometheus,nginx,mysql&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,c,js,bash,aws,azure,docker,kubernetes,jenkins,gitlab,github,ansible,terraform,grafana,prometheus,nginx,mysql,mongodb,postman,postgres,redis,kafka&theme=dark&perline=10" />
+
+<br><br>
+
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-000000?style=for-the-badge&logo=scylladb&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-528BFF?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 🖥️ Virtualization & Infra
 
