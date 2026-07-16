@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5263,100:0db7ed&height=220&section=header&text=Saurav%20Karki&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20%C2%B7%20Cloud%20%26%20Automation&descAlignY=62&descSize=18&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5263,100:0db7ed&height=220&section=header&text=Saurav%20Karki&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20%C2%B7%20Cloud%20and%20Automation&descAlignY=62&descSize=18&fontAlignY=35" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0DB7ED&center=true&vCenter=true&width=600&lines=%3E+kubectl+get+pods+--all-namespaces;%3E+terraform+apply+--auto-approve;%3E+docker+build+.+--tag+production;%3E+building+resilient%2C+self-healing+systems" alt="Typing SVG" />
 
@@ -21,8 +21,7 @@ whoami:
   name: Saurav Karki
   role: DevOps Engineer
   focus: [Cloud Infrastructure, CI/CD, Observability, Self-Hosted Virtualization]
-  currently_learning: Cloud-native security & service mesh architecture
-  fun_fact: "I automate things twice, just to make sure I never do it a third time 😄"
+  currently_learning: [AIOps, LLMOps, Cloud & Self-Hosted Security]
 ```
 
 <br>
@@ -31,7 +30,7 @@ whoami:
 
 ### 🛠️ Core Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,bash,aws,azure,docker,kubernetes,jenkins,gitlab,github,ansible,terraform,grafana,prometheus,nginx,mysql,mongodb,postman&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,c,js,bash,aws,azure,docker,kubernetes,jenkins,gitlab,github,ansible,terraform,grafana,prometheus,nginx,mysql,mongodb,postman&theme=dark&perline=10" />
 
 ### 🖥️ Virtualization & Infra
 
@@ -65,12 +64,12 @@ whoami:
 
 <div align="center">
 
-### 📊 GitHub Analytics
+### 🧭 What I'm Exploring Next
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamsaurav-karki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaurav-karki&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsaurav-karki&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+![AIOps](https://img.shields.io/badge/AIOps-6C5CE7?style=for-the-badge&logo=probot&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-00B894?style=for-the-badge&logo=openai&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-D63031?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Self-Hosted Security](https://img.shields.io/badge/Self--Hosted%20Security-2D3436?style=for-the-badge&logo=vaultwarden&logoColor=white)
 
 </div>
 
@@ -78,9 +77,12 @@ whoami:
 
 <div align="center">
 
-### 🏆 Trophy Case
+### 📊 GitHub Analytics
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamsaurav-karki&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamsaurav-karki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaurav-karki&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsaurav-karki&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
